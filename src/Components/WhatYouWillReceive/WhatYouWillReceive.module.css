@@ -1,7 +1,7 @@
 .container {
     color: white;
     font-size: 20px;
-    margin: 30px 0;
+    margin: 30px 0 0;
     background: #7500abcc;
     padding: 0 20px 100px;
 }
@@ -11,6 +11,8 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
+    font-size: 18px;
+    text-align: center;
 }
 
 .container_content {

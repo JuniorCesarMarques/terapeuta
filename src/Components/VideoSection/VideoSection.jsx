@@ -5,7 +5,6 @@ const VideoSection = () => {
 
 const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
-console.log(windowWidth)
 
  const handleResize = () => {
   setWindowWidth(window.innerWidth <= 767 ? window.innerWidth - 60 : window.innerWidth >= 1000 ? 1000 - 450 : window.innerWidth - 450)
