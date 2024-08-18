@@ -1,0 +1,35 @@
+.container {
+    color: black;
+    margin: 50px 0;
+}
+
+.container h1 {
+    margin: 30px 0;
+    text-align: center;
+}
+
+
+.faq_option {
+    width: 350px;
+    color: black;
+    border: 0.5px solid rgb(184, 184, 184);
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.container_text {
+    overflow: hidden;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.title_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+}

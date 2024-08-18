@@ -1,24 +1,24 @@
 const whaYouWillReceiveData = [
   {
-    text: "Atualizações mensais.",
+    text: "+50 Artes (Feed & Storie)",
   },
   {
-    text: "Cursos gratuitos de Espiritualidade.",
+    text: "Artes 100% editáveis no Canva",
   },
   {
-    text: "Caixinhas de Perguntas.",
+    text: "Artes 100% prontas para postar",
   },
   {
-    text: "+100 Mensagens Motivacionais.",
+    text: "Legendas Prontas",
   },
   {
-    text: "Vídeos para Stories 100% editáveis.",
+    text: "Paletas de Cores",
   },
   {
-    text: "Vídeos 100% pronto para postar.",
+    text: "Calendário de Conteúdo",
   },
   {
-    text: "100% personalizado para cada Terapia.",
+    text: "Mini Curso Canva Completo",
   },
 ];
 

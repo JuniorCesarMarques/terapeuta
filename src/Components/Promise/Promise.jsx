@@ -6,11 +6,11 @@ const Promise = () => {
     <div className={styles.container}>
       <div className={styles.text_container}>
         <h1>
-          O pack para Terapeutas veio para facilitar na hora de criar suas artes.
+          O pack para Oraculistas veio para facilitar na hora de criar suas artes.
         </h1>
         <ul>
           <li>
-            <p>Para todos os Terapeutas e Oraculistas que busca qualidade em artes prontas criativas para o seu negócio.</p>
+            <p>Para todos os Oraculistas que buscam qualidade em artes prontas criativas para o seu negócio.</p>
           </li>
           <li>
             <p>Não sabe como criar as artes? Ou até mesmo não tem tempo de fazer suas artes para postar nas suas redes sociais?</p>
@@ -24,7 +24,6 @@ const Promise = () => {
         </ul>
       </div>
       <div>
-        <img src={img} />
         </div>
     </div>
   );
